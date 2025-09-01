@@ -8,11 +8,7 @@ published: ture
 labels:
   - Crystal Structures Prediction
   - GAtor
-summary: "GAtor."
----
-
-<img class="gator" src="../img/gator/gator.jpg">
-
+summary: "GAtor is a genetic algorithm framework for crystal structure prediction, featuring specialized operators for molecular crystals, evolutionary niching, and parallelization. Recent upgrades include machine learning potentials, support for cocrystals,crystals with flexible molecules, Z'=0.5 and PXRD-guided searches."
 ---
 
 **GAtor: a massively parallel genetic algorithm for molecular crystal structure prediction**
@@ -32,8 +28,7 @@ Genetic algorithms (GAs) rely on the evolutionary principle of survival of the f
 
 Best practice for crystal structure prediction is to run GAtor multiple times with different settings. As illustrated in the figure below, the experimental structure of tricyano-1,4-dithiino\[c]-isothiazole (TCS3) was reproduced in seven independent GAtor runs, each exploring distinct evolutionary routes from the initial pool. A central innovation is evolutionary niching: machine learning–based clustering of candidate structures, combined with cluster-weighted fitness evaluation, which maintains diversity and mitigates genetic drift. Candidate structures are then re-ranked with increasingly accurate DFT methods.
 
-**Recent developments.** I have integrated GAtor with multiple machine learning interatomic potentials (MLIPs), expanded its library of crossover and mutation operators, and improved computational efficiency. The framework has been extended to support challenging cases including **Z′ = 0.5 crystals, flexible molecules, and multicomponent molecular crystals.** Furthermore, we have enabled **PXRD-guided GAtor runs**, where experimental powder diffraction patterns can steer the evolutionary search. Several publications detailing these advances are in preparation.
-
+**Recent developments.** I have integrated GAtor with multiple machine learning interatomic potentials (MLIPs), expanded its library of crossover and mutation operators, and improved computational efficiency. The framework has been extended to support challenging cases including **Z′ = 0.5 crystals, flexible molecules, and multicomponent molecular crystals.** Furthermore, we have enabled **PXRD-guided GAtor runs**, where experimental powder diffraction patterns can steer the evolutionary search. **Several publications detailing these advances are in preparation.**
 
 
 
