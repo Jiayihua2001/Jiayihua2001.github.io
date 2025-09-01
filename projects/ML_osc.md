@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ML_osc/workflow.jpg
+image: img/ml_wfl.jpg
 title: "AI-driven Performance Prediction of organic solar cells"
 date: 2022
 published: true
