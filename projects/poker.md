@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/poker/poker.jpg
-title: "poker"
+title: "Best Poster Prize: LLM+PPO Poker Bot"
 date: 2024
 published: true
 labels:

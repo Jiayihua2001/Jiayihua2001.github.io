@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/gator/gator.jpg
-title: "GAtor"
+title: "GAtor for crystal structure prediction"
 date: 2025
 published: ture
 labels:
@@ -13,7 +13,7 @@ summary: "GAtor is a genetic algorithm framework for crystal structure predictio
 
 **GAtor: a massively parallel genetic algorithm for molecular crystal structure prediction**
 
-<img width="500px" class="Gator" src="../img/gator/gator.jpg">
+<img width="700px" class="Gator" src="../img/gator/gator.jpg">
 
 
 Genetic algorithms (GAs) rely on the evolutionary principle of survival of the fittest to perform global optimization. The target property is mapped onto a fitness function, and structures with higher fitness values have an increased probability of “mating” and propagating their structural “genes.” This process is iterated until an optimum is found.
