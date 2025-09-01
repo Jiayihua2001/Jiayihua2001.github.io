@@ -11,12 +11,14 @@ labels:
   - Publicated in SMALL
 ---
 
-<img width="200px" class="PEMFC" src="../img/PEMFC.jpg">
 
-
-*Nanocomposites from Polymer Brushes and Metal Oxide Clusters for Fabrication of High-Temperature Fuel Cell Proton Exchange Membranes*
+**Nanocomposites from Polymer Brushes and Metal Oxide Clusters for Fabrication of High-Temperature Fuel Cell Proton Exchange Membranes**
 
 [Link to the paper](https://doi.org/10.1002/smll.202504372)
+
+<img width="500px" class="PEMFC" src="../img/PEMFC.jpg">
+
+**In this work, I designed the experiments, performed synthesis and characterization, and conducted data analysis.**
 
 We developed a new class of high-temperature proton exchange membranes (HT-PEMs) designed for fuel cells operating under harsh, water-free conditions. These membranes combine polymer brush architectures with super acidic metal oxide clusters (H₃PW₁₂O₄₀, or PW12) to address long-standing challenges in mechanical stability, proton conductivity, and gas barrier performance.
 
