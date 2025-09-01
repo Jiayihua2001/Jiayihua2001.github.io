@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/gator/gator.jpg
-title: "GAtor for crystal structure prediction"
+title: "GAtor for Crystal Structure Prediction"
 date: 2025
 published: ture
 labels:
